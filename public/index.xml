@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Bigelow</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Michael Bigelow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>michaeljohnbigelow@gmail.com (Michael)</managingEditor>
+    <webMaster>michaeljohnbigelow@gmail.com (Michael)</webMaster>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>michaeljohnbigelow@gmail.com (Michael)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>My name is Michael and I aim to create something awesome.&#xA;Sometimes the creative act is a solitary one&amp;hellip; other times it is a communal enterprise. In those latter times the humanity of each member of the team combines with the others to yield a result with a personality all its own. One that no single member could have produced.&#xA;Consider Miles Davis, a man who masterfully executed his craft &amp;ndash; the trumpet &amp;ndash; while as a bandleader orchestrating group after group of the very best musicians to create landmark recordings that defined era after era of jazz music &amp;ndash; bebop, hard bop, cool jazz, modal jazz, fusion.</description>
+    </item>
+  </channel>
+</rss>
